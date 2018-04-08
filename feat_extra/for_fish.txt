@@ -1,0 +1,12 @@
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1092_1.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1092_2.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1092_3.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1092_4.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1092_5.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1092_6.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1356_1.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1356_2.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1356_3.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1356_4.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1356_5.bmp
+/home/cad/disk/linux/RenderForCNN-master/data/all_tf/fish/train/1356_6.bmp

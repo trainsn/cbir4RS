@@ -1,0 +1,5 @@
+nohup  ./build/examples/cpp_classification/classification.bin /home/cad/disk/linux/cbir/model/RSI-CB256/AlexNet_deploy.prototxt /home/cad/disk/linux/cbir/model/RSI-CB256/AlexNet_iter_100000.caffemodel /home/cad/disk/linux/cbir/model/RSI-CB256/mean.binaryproto /home/cad/disk/linux/cbir/class.txt /home/cad/disk/linux/cbir/RSI-CB256/filename.txt > cla_res.txt 2>&1 &
+
+./build/tools/extract_features.bin /home/cad/disk/linux/cbir/model/RSI-CB256/AlexNet_iter_100000.caffemodel /home/cad/disk/linux/cbir/feat_extra/class_val_alex.prototxt fc7 feat_extra 24747 lmdb GPU 0
+
+./build/tools/extract_features.bin /home/cad/disk/linux/cbir/model/RSI-CB256/VGG16_iter_100000.caffemodel /home/cad/disk/linux/cbir/feat_extra/class_val_vgg16.prototxt fc7 feat_extra 24747 lmdb GPU 0
