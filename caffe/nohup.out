@@ -1,0 +1,1 @@
+Usage: ./build/examples/cpp_classification/classification.bin deploy.prototxt network.caffemodel mean.binaryproto labels.txt img.jpg
