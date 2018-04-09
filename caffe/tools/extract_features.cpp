@@ -13,9 +13,7 @@
 #include "caffe/util/format.hpp"
 #include "caffe/util/io.hpp"
 
-#define SIZE 48
-#define DIM 4096
-#define NUM_PER_IMG 40
+#define DIM 128
 
 using caffe::Blob;
 using caffe::Caffe;
@@ -25,6 +23,7 @@ using std::string;
 
 template<typename Dtype>
 int feature_extraction_pipeline(int argc, char** argv);
+float getHamming(const std::vector<int>& lhs, const std::vector<int>& rhs);
 float getMold(const std::vector<float>& vec);
 float getSimilarity(const std::vector<float>& lhs, const std::vector<float>& rhs);
 float getDistance(const std::vector<float>& lhs, const std::vector<float>& rhs);
@@ -32,13 +31,22 @@ struct SimiStruct{
     int idx;
     float simi;
 };
-struct CmpSimi{
+struct CmpSimi{ //from big to small
     bool operator()(const SimiStruct& first, const SimiStruct& second) const{
         if (first.simi > second.simi)
             return true;
         return false;
     }
 };
+
+struct CmpSimi1{ //from small to big
+    bool operator()(const SimiStruct& first, const SimiStruct& second) const{
+        if (first.simi < second.simi)
+            return true;
+        return false;
+    }
+};
+
 
 struct imageStruct{
     string filename;
@@ -48,7 +56,6 @@ std::vector<imageStruct> image_lists;
 
 int main(int argc, char** argv) {
   freopen("/home/cad/disk/linux/cbir/RSI-CB256/filename.txt","r",stdin);
-  freopen("/home/cad/disk/linux/cbir/feat_extra/rs_simi.txt","w",stdout);
   return feature_extraction_pipeline<float>(argc, argv);
 }
 
@@ -63,7 +70,7 @@ int feature_extraction_pipeline(int argc, char** argv) {
     " extract features of the input data produced by the net.\n"
     "Usage: extract_features  pretrained_net_param"
     "  feature_extraction_proto_file  extract_feature_blob_name1[,name2,...]"
-    "  save_feature_dataset_name1[,name2,...]  num_mini_batches  db_type"
+    "  save_feature_dataset_name1[,name2,...]  num_mini_batches  output_file"
     "  [CPU/GPU] [DEVICE_ID=0]\n"
     "Note: you can extract multiple features in one pass by specifying"
     " multiple feature blob names and dataset names separated by ','."
@@ -150,6 +157,9 @@ int feature_extraction_pipeline(int argc, char** argv) {
       image_lists.push_back(img);
   }
 
+  string output_filename = argv[++arg_pos];
+  freopen(output_filename.c_str(),"w",stdout);
+
   LOG(ERROR)<< "Extracting Features";
 
   //add by trainsn
@@ -182,39 +192,88 @@ int feature_extraction_pipeline(int argc, char** argv) {
     }  // for (int i = 0; i < num_features; ++i)
   }  // for (int batch_index = 0; batch_index < num_mini_batches; ++batch_index)*/
 
-  //compute the similarity with cos ; add by trainsn
-  std::vector<SimiStruct> cosres;
+  //compute the similarity with cos or Hamming distance; add by trainsn
   std::vector< std::vector <float> > eures;
   eures.resize(num_mini_batches, std::vector<float>(num_mini_batches));
   int topk[5] = {5, 10, 50, 100, 200};
   float map[5] = {0};
-  for (int i = 0; i < num_mini_batches; i++){
+  if (blob_names[0].find("hash_encode") == -1)
+  {
+      std::vector<SimiStruct> cosres;
+      for (int i = 0; i < num_mini_batches; i++){
+              int acc = 0;
+              cosres.clear();
+              std::cout <<  image_lists[i].filename << std::endl;
+              for (int j = 0; j < num_mini_batches; j++){
+                  SimiStruct tempSimi;
+                  tempSimi.idx = j;
+                  tempSimi.simi = getSimilarity(feat[i], feat[j]);
+                  cosres.push_back(tempSimi);
+              }
+
+              std::sort(cosres.begin(), cosres.end(), CmpSimi());
+              for (size_t j = 0; j < 5; j++)
+              {
+                  acc = 0;
+                  for (size_t k = 1; k <= topk[j]; k++)
+                  {
+                     if (!j)
+                        std::cout << "  simi" << k << " " << image_lists[cosres[k].idx].filename << " " << cosres[k].simi << std::endl;
+                     if (image_lists[cosres[k].idx].label == image_lists[i].label)
+                         acc++;
+                  }
+                  map[j]+=acc;
+                  std::cout << "acc: " << topk[j] << " " << (float)acc/topk[j] << std::endl;
+              }
+              std::cout << std::endl;
+              if (i%100 == 0)
+                  LOG(ERROR)<< "finish " << i << " images searching";
+          }
+  }else  {
+      std::vector< std::vector <int> > feat_hash;
+      feat_hash.resize(num_mini_batches, std::vector<int>(DIM));
+      std::vector<SimiStruct> hammingres;
+      for (int i = 0; i < num_mini_batches; i++)
+      {
+          for (int j = 0; j < feat[i].size(); j++){
+              //std::cout << (int)(feat[i][j] + 0.5)  << " ";
+              feat_hash[i][j] = (int)(feat[i][j] + 0.5);
+          }
+          //std::cout << std::endl;
+      }
+      for (int i = 0; i < num_mini_batches; i++){
           int acc = 0;
-          cosres.clear();
+          hammingres.clear();
           std::cout <<  image_lists[i].filename << std::endl;
           for (int j = 0; j < num_mini_batches; j++){
               SimiStruct tempSimi;
               tempSimi.idx = j;
-              tempSimi.simi = getSimilarity(feat[i], feat[j]);
-              cosres.push_back(tempSimi);
+              tempSimi.simi = getHamming(feat_hash[i], feat_hash[j]);
+              hammingres.push_back(tempSimi);
           }
 
-          std::sort(cosres.begin(), cosres.end(), CmpSimi());
+          std::sort(hammingres.begin(), hammingres.end(), CmpSimi1());
+
           for (size_t j = 0; j < 5; j++)
           {
               acc = 0;
               for (size_t k = 1; k <= topk[j]; k++)
               {
                  if (!j)
-                    std::cout << "  simi" << k << " " << image_lists[cosres[k].idx].filename << " " << cosres[k].simi << std::endl;
-                 if (image_lists[cosres[k].idx].label == image_lists[i].label)
+                    std::cout << "  simi" << k << " " << image_lists[hammingres[k].idx].filename << " " << hammingres[k].simi << std::endl;
+                 if (image_lists[hammingres[k].idx].label == image_lists[i].label)
                      acc++;
               }
               map[j]+=acc;
               std::cout << "acc: " << topk[j] << " " << (float)acc/topk[j] << std::endl;
           }
           std::cout << std::endl;
+          if (i%100 == 0)
+              LOG(ERROR)<< "finish " << i << " images searching";
+
       }
+  }
+
    for (int i = 0; i < 5; i++)
     std::cout << "map" << topk[i] << " " << map[i]/(topk[i]*num_mini_batches) << std::endl;
   // write the last batch
@@ -225,6 +284,15 @@ int feature_extraction_pipeline(int argc, char** argv) {
 
   LOG(ERROR)<< "Successfully extracted the features!";
   return 0;
+}
+
+float getHamming(const std::vector<int>& lhs, const std::vector<int>& rhs){
+    int n = lhs.size();
+    assert(n == rhs.size());
+    int tmp = 0;
+    for (int i = 0; i < n; i++)
+        tmp += lhs[i] ^ rhs[i];
+    return tmp;
 }
 
 float getMold(const std::vector<float>& vec){   //求向量的模长
@@ -253,3 +321,4 @@ float getDistance(const std::vector<float>& lhs, const std::vector<float>& rhs){
         tmp += (lhs[i]-rhs[i]) * (lhs[i]-rhs[i]);
     return sqrt(tmp);
 }
+
