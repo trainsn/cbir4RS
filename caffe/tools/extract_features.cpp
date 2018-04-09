@@ -190,6 +190,8 @@ int feature_extraction_pipeline(int argc, char** argv) {
         ++image_indices[i];
       }  // for (int n = 0; n < batch_size; ++n)
     }  // for (int i = 0; i < num_features; ++i)
+    if (batch_index % 1000 == 0)
+        LOG(ERROR)<< "finish " << batch_index << " images extracting features";
   }  // for (int batch_index = 0; batch_index < num_mini_batches; ++batch_index)*/
 
   //compute the similarity with cos or Hamming distance; add by trainsn

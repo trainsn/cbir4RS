@@ -581,34 +581,72 @@ layer {
   }
 }
 layer {
-  name: "fc8"
-  bottom: "fc7"
-  top: "fc8"
+  name: "fc8_hash"
   type: "InnerProduct"
-  inner_product_param {
-    num_output: 1000
-weight_filler {
-      type: "gaussian"
-      std: 0.005
-    }
-    bias_filler {
-      type: "constant"
-      value: 0.1
-    }
-  }
+  bottom: "fc7"
+  top: "fc8_hash"
   param {
     lr_mult: 1
     decay_mult: 1
   }
   param {
-    lr_mult: 2
+    lr_mult: 1
     decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 128
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
   }
 }
 layer {
-  name: "prob"
-  type: "Softmax"
-  bottom: "fc8"
-  top: "prob"
+  name: "fc8_hash_encode"
+  type: "Sigmoid"
+  bottom: "fc8_hash"
+  top: "fc8_hash_encode"
 }
-
+layer {
+  name: "fc8_pascal"
+  type: "InnerProduct"
+  bottom: "fc8_hash_encode"
+  top: "fc8_pascal"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 1
+    decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 35
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
+  }
+}
+layer {
+  name: "loss"
+  type: "SoftmaxWithLoss"
+  bottom: "fc8_pascal"
+  bottom: "label"
+  top: "loss"
+}
+layer {
+  name: "accuracy"
+  type: "Accuracy"
+  bottom: "fc8_pascal"
+  bottom: "label"
+  top: "accuracy"
+}
