@@ -54,11 +54,11 @@ layer {
 layer {
   name: "conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv1"
   top: "conv1"
-  batch_norm_param {
-        use_global_stats: false
-    }
 }
 layer {
   name: "conv1_scale"
@@ -132,6 +132,9 @@ layer {
 layer {
   name: "conv2_res1_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res1_conv1"
   top: "conv2_res1_conv1"
 }
@@ -178,6 +181,9 @@ layer {
 layer {
   name: "conv2_res1_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res1_conv2"
   top: "conv2_res1_conv2"
 }
@@ -231,6 +237,9 @@ layer {
 layer {
   name: "conv2_res2_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res1"
   top: "conv2_res2_pre"
 }
@@ -277,6 +286,9 @@ layer {
 layer {
   name: "conv2_res2_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res2_conv1"
   top: "conv2_res2_conv1"
 }
@@ -323,6 +335,9 @@ layer {
 layer {
   name: "conv2_res2_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res2_conv2"
   top: "conv2_res2_conv2"
 }
@@ -376,6 +391,9 @@ layer {
 layer {
   name: "conv2_res3_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res2"
   top: "conv2_res3_pre"
 }
@@ -422,6 +440,9 @@ layer {
 layer {
   name: "conv2_res3_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res3_conv1"
   top: "conv2_res3_conv1"
 }
@@ -468,6 +489,9 @@ layer {
 layer {
   name: "conv2_res3_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res3_conv2"
   top: "conv2_res3_conv2"
 }
@@ -521,6 +545,9 @@ layer {
 layer {
   name: "conv3_res1_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv2_res3"
   top: "conv3_res1_pre"
 }
@@ -584,6 +611,9 @@ layer {
 layer {
   name: "conv3_res1_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res1_conv1"
   top: "conv3_res1_conv1"
 }
@@ -630,6 +660,9 @@ layer {
 layer {
   name: "conv3_res1_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res1_conv2"
   top: "conv3_res1_conv2"
 }
@@ -683,6 +716,9 @@ layer {
 layer {
   name: "conv3_res2_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res1"
   top: "conv3_res2_pre"
 }
@@ -729,6 +765,9 @@ layer {
 layer {
   name: "conv3_res2_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res2_conv1"
   top: "conv3_res2_conv1"
 }
@@ -775,6 +814,9 @@ layer {
 layer {
   name: "conv3_res2_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res2_conv2"
   top: "conv3_res2_conv2"
 }
@@ -828,6 +870,9 @@ layer {
 layer {
   name: "conv3_res3_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res2"
   top: "conv3_res3_pre"
 }
@@ -874,6 +919,9 @@ layer {
 layer {
   name: "conv3_res3_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res3_conv1"
   top: "conv3_res3_conv1"
 }
@@ -920,6 +968,9 @@ layer {
 layer {
   name: "conv3_res3_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res3_conv2"
   top: "conv3_res3_conv2"
 }
@@ -973,6 +1024,9 @@ layer {
 layer {
   name: "conv3_res4_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res3"
   top: "conv3_res4_pre"
 }
@@ -1019,6 +1073,9 @@ layer {
 layer {
   name: "conv3_res4_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res4_conv1"
   top: "conv3_res4_conv1"
 }
@@ -1065,6 +1122,9 @@ layer {
 layer {
   name: "conv3_res4_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res4_conv2"
   top: "conv3_res4_conv2"
 }
@@ -1118,6 +1178,9 @@ layer {
 layer {
   name: "conv4_res1_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv3_res4"
   top: "conv4_res1_pre"
 }
@@ -1184,6 +1247,9 @@ layer {
 layer {
   name: "conv4_res1_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res1_conv1"
   top: "conv4_res1_conv1"
 }
@@ -1230,6 +1296,9 @@ layer {
 layer {
   name: "conv4_res1_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res1_conv2"
   top: "conv4_res1_conv2"
 }
@@ -1283,6 +1352,9 @@ layer {
 layer {
   name: "conv4_res2_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res1"
   top: "conv4_res2_pre"
 }
@@ -1329,6 +1401,9 @@ layer {
 layer {
   name: "conv4_res2_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res2_conv1"
   top: "conv4_res2_conv1"
 }
@@ -1375,6 +1450,9 @@ layer {
 layer {
   name: "conv4_res2_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res2_conv2"
   top: "conv4_res2_conv2"
 }
@@ -1428,6 +1506,9 @@ layer {
 layer {
   name: "conv4_res3_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res2"
   top: "conv4_res3_pre"
 }
@@ -1474,6 +1555,9 @@ layer {
 layer {
   name: "conv4_res3_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res3_conv1"
   top: "conv4_res3_conv1"
 }
@@ -1520,6 +1604,9 @@ layer {
 layer {
   name: "conv4_res3_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res3_conv2"
   top: "conv4_res3_conv2"
 }
@@ -1573,6 +1660,9 @@ layer {
 layer {
   name: "conv4_res4_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res3"
   top: "conv4_res4_pre"
 }
@@ -1619,6 +1709,9 @@ layer {
 layer {
   name: "conv4_res4_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res4_conv1"
   top: "conv4_res4_conv1"
 }
@@ -1665,6 +1758,9 @@ layer {
 layer {
   name: "conv4_res4_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res4_conv2"
   top: "conv4_res4_conv2"
 }
@@ -1718,6 +1814,9 @@ layer {
 layer {
   name: "conv4_res5_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res4"
   top: "conv4_res5_pre"
 }
@@ -1764,6 +1863,9 @@ layer {
 layer {
   name: "conv4_res5_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res5_conv1"
   top: "conv4_res5_conv1"
 }
@@ -1810,6 +1912,9 @@ layer {
 layer {
   name: "conv4_res5_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res5_conv2"
   top: "conv4_res5_conv2"
 }
@@ -1863,6 +1968,9 @@ layer {
 layer {
   name: "conv4_res6_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res5"
   top: "conv4_res6_pre"
 }
@@ -1909,6 +2017,9 @@ layer {
 layer {
   name: "conv4_res6_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res6_conv1"
   top: "conv4_res6_conv1"
 }
@@ -1955,6 +2066,9 @@ layer {
 layer {
   name: "conv4_res6_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res6_conv2"
   top: "conv4_res6_conv2"
 }
@@ -2008,6 +2122,9 @@ layer {
 layer {
   name: "conv5_res1_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv4_res6"
   top: "conv5_res1_pre"
 }
@@ -2071,6 +2188,9 @@ layer {
 layer {
   name: "conv5_res1_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res1_conv1"
   top: "conv5_res1_conv1"
 }
@@ -2117,6 +2237,9 @@ layer {
 layer {
   name: "conv5_res1_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res1_conv2"
   top: "conv5_res1_conv2"
 }
@@ -2170,6 +2293,9 @@ layer {
 layer {
   name: "conv5_res2_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res1"
   top: "conv5_res2_pre"
 }
@@ -2216,6 +2342,9 @@ layer {
 layer {
   name: "conv5_res2_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res2_conv1"
   top: "conv5_res2_conv1"
 }
@@ -2262,6 +2391,9 @@ layer {
 layer {
   name: "conv5_res2_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res2_conv2"
   top: "conv5_res2_conv2"
 }
@@ -2315,6 +2447,9 @@ layer {
 layer {
   name: "conv5_res3_pre_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res2"
   top: "conv5_res3_pre"
 }
@@ -2361,6 +2496,9 @@ layer {
 layer {
   name: "conv5_res3_conv1_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res3_conv1"
   top: "conv5_res3_conv1"
 }
@@ -2407,6 +2545,9 @@ layer {
 layer {
   name: "conv5_res3_conv2_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res3_conv2"
   top: "conv5_res3_conv2"
 }
@@ -2460,6 +2601,9 @@ layer {
 layer {
   name: "conv5_bn"
   type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
   bottom: "conv5_res3"
   top: "conv5"
 }

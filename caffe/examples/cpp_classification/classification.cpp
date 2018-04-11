@@ -271,13 +271,13 @@ int main(int argc, char** argv) {
         Prediction p = predictions[i];
         std::cout << std::fixed << std::setprecision(4) << p.second << " - \""
                   << p.first << "\"" << std::endl;
-        if (i == 0){
+        /*if (i == 0){
             pos = p.first.find(" ");
             int pri = atoi(p.first.substr(0,pos).c_str());
             std::cout << pri << std::endl;
             if (pri == truth)
                 acc++;
-        }
+        }*/
       }
       countimg++;
   }
