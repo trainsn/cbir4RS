@@ -10,7 +10,7 @@ layer {
   }
   transform_param {
     crop_size: 227
-    mirror: false
+    mirror: true
     mean_file:"/home/cad/disk/linux/cbir/model/RSI-CB256/mean.binaryproto"
   }
   include: { phase: TRAIN }

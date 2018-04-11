@@ -5,15 +5,15 @@ layer {
   top: "data"
   top: "label"
   image_data_param {
-    source: "/home/cad/disk/linux/cbir/RSI-CB256/filename1.txt"
+    source: "/home/cad/disk/linux/cbir/RSI-CB128/filename1.txt"
     batch_size: 1
-    new_height: 256
-    new_width: 256
+    new_height: 128
+    new_width: 128
   }
   transform_param {
-    crop_size: 227
+    crop_size: 123
     mirror: false
-    mean_file:"/home/cad/disk/linux/cbir/model/RSI-CB256/mean.binaryproto"
+    mean_file:"/home/cad/disk/linux/cbir/model/RSI-CB128/mean_128.binaryproto"
   }
 }
 layer {
@@ -274,11 +274,11 @@ layer {
     decay_mult: 1
   }
   param {
-    lr_mult: 1
+    lr_mult: 2
     decay_mult: 0
   }
   inner_product_param {
-    num_output: 128
+    num_output: 48
     weight_filler {
       type: "gaussian"
       std: 0.01
@@ -305,11 +305,11 @@ layer {
     decay_mult: 1
   }
   param {
-    lr_mult: 1
+    lr_mult: 2
     decay_mult: 0
   }
   inner_product_param {
-    num_output: 35
+    num_output: 45
     weight_filler {
       type: "gaussian"
       std: 0.01
