@@ -13,7 +13,7 @@ layer {
   transform_param {
     crop_size: 123
     mirror: false
-    #mean_file:"/home/cad/disk/linux/cbir/model/RSI-CB128/mean_128.binaryproto"
+    mean_file:"/home/cad/disk/linux/cbir/model/RSI-CB128/mean_128.binaryproto"
   }
 }
 layer {
