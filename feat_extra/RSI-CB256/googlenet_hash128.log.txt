@@ -1,0 +1,278 @@
+E0410 15:55:26.354049 17424 extract_features.cpp:85] Using GPU
+E0410 15:55:26.354519 17424 extract_features.cpp:91] Using Device_id=0
+E0410 15:55:27.043310 17424 extract_features.cpp:163] Extracting Features
+E0410 15:55:27.080955 17424 extract_features.cpp:194] finish 0 images extracting features
+E0410 15:55:39.694032 17424 extract_features.cpp:194] finish 1000 images extracting features
+E0410 15:55:52.335544 17424 extract_features.cpp:194] finish 2000 images extracting features
+E0410 15:56:04.951231 17424 extract_features.cpp:194] finish 3000 images extracting features
+E0410 15:56:17.653761 17424 extract_features.cpp:194] finish 4000 images extracting features
+E0410 15:56:30.269837 17424 extract_features.cpp:194] finish 5000 images extracting features
+E0410 15:56:42.854099 17424 extract_features.cpp:194] finish 6000 images extracting features
+E0410 15:56:55.384912 17424 extract_features.cpp:194] finish 7000 images extracting features
+E0410 15:57:07.891564 17424 extract_features.cpp:194] finish 8000 images extracting features
+E0410 15:57:20.429452 17424 extract_features.cpp:194] finish 9000 images extracting features
+E0410 15:57:33.027840 17424 extract_features.cpp:194] finish 10000 images extracting features
+E0410 15:57:45.628485 17424 extract_features.cpp:194] finish 11000 images extracting features
+E0410 15:57:58.266284 17424 extract_features.cpp:194] finish 12000 images extracting features
+E0410 15:58:10.871924 17424 extract_features.cpp:194] finish 13000 images extracting features
+E0410 15:58:23.543220 17424 extract_features.cpp:194] finish 14000 images extracting features
+E0410 15:58:36.166211 17424 extract_features.cpp:194] finish 15000 images extracting features
+E0410 15:58:48.730044 17424 extract_features.cpp:194] finish 16000 images extracting features
+E0410 15:59:01.335338 17424 extract_features.cpp:194] finish 17000 images extracting features
+E0410 15:59:13.973086 17424 extract_features.cpp:194] finish 18000 images extracting features
+E0410 15:59:26.606730 17424 extract_features.cpp:194] finish 19000 images extracting features
+E0410 15:59:39.231420 17424 extract_features.cpp:194] finish 20000 images extracting features
+E0410 15:59:51.801256 17424 extract_features.cpp:194] finish 21000 images extracting features
+E0410 16:00:04.434090 17424 extract_features.cpp:194] finish 22000 images extracting features
+E0410 16:00:17.060313 17424 extract_features.cpp:194] finish 23000 images extracting features
+E0410 16:00:29.806397 17424 extract_features.cpp:194] finish 24000 images extracting features
+E0410 16:00:40.130633 17424 extract_features.cpp:274] finish 0 images searching
+E0410 16:00:42.284950 17424 extract_features.cpp:274] finish 100 images searching
+E0410 16:00:44.419622 17424 extract_features.cpp:274] finish 200 images searching
+E0410 16:00:46.565682 17424 extract_features.cpp:274] finish 300 images searching
+E0410 16:00:48.701002 17424 extract_features.cpp:274] finish 400 images searching
+E0410 16:00:50.845917 17424 extract_features.cpp:274] finish 500 images searching
+E0410 16:00:52.982843 17424 extract_features.cpp:274] finish 600 images searching
+E0410 16:00:55.145678 17424 extract_features.cpp:274] finish 700 images searching
+E0410 16:00:57.339764 17424 extract_features.cpp:274] finish 800 images searching
+E0410 16:00:59.528223 17424 extract_features.cpp:274] finish 900 images searching
+E0410 16:01:01.754915 17424 extract_features.cpp:274] finish 1000 images searching
+E0410 16:01:03.926786 17424 extract_features.cpp:274] finish 1100 images searching
+E0410 16:01:06.125486 17424 extract_features.cpp:274] finish 1200 images searching
+E0410 16:01:08.343473 17424 extract_features.cpp:274] finish 1300 images searching
+E0410 16:01:10.545203 17424 extract_features.cpp:274] finish 1400 images searching
+E0410 16:01:12.796778 17424 extract_features.cpp:274] finish 1500 images searching
+E0410 16:01:14.982157 17424 extract_features.cpp:274] finish 1600 images searching
+E0410 16:01:17.155047 17424 extract_features.cpp:274] finish 1700 images searching
+E0410 16:01:19.343669 17424 extract_features.cpp:274] finish 1800 images searching
+E0410 16:01:21.552563 17424 extract_features.cpp:274] finish 1900 images searching
+E0410 16:01:23.729398 17424 extract_features.cpp:274] finish 2000 images searching
+E0410 16:01:25.868098 17424 extract_features.cpp:274] finish 2100 images searching
+E0410 16:01:28.100255 17424 extract_features.cpp:274] finish 2200 images searching
+E0410 16:01:30.402261 17424 extract_features.cpp:274] finish 2300 images searching
+E0410 16:01:32.605175 17424 extract_features.cpp:274] finish 2400 images searching
+E0410 16:01:34.777093 17424 extract_features.cpp:274] finish 2500 images searching
+E0410 16:01:36.911664 17424 extract_features.cpp:274] finish 2600 images searching
+E0410 16:01:39.060312 17424 extract_features.cpp:274] finish 2700 images searching
+E0410 16:01:41.195024 17424 extract_features.cpp:274] finish 2800 images searching
+E0410 16:01:43.330307 17424 extract_features.cpp:274] finish 2900 images searching
+E0410 16:01:45.516914 17424 extract_features.cpp:274] finish 3000 images searching
+E0410 16:01:47.708160 17424 extract_features.cpp:274] finish 3100 images searching
+E0410 16:01:49.932391 17424 extract_features.cpp:274] finish 3200 images searching
+E0410 16:01:52.146802 17424 extract_features.cpp:274] finish 3300 images searching
+E0410 16:01:54.435338 17424 extract_features.cpp:274] finish 3400 images searching
+E0410 16:01:56.639284 17424 extract_features.cpp:274] finish 3500 images searching
+E0410 16:01:58.787025 17424 extract_features.cpp:274] finish 3600 images searching
+E0410 16:02:00.936944 17424 extract_features.cpp:274] finish 3700 images searching
+E0410 16:02:03.123478 17424 extract_features.cpp:274] finish 3800 images searching
+E0410 16:02:05.316345 17424 extract_features.cpp:274] finish 3900 images searching
+E0410 16:02:07.453308 17424 extract_features.cpp:274] finish 4000 images searching
+E0410 16:02:09.588819 17424 extract_features.cpp:274] finish 4100 images searching
+E0410 16:02:11.722632 17424 extract_features.cpp:274] finish 4200 images searching
+E0410 16:02:13.914412 17424 extract_features.cpp:274] finish 4300 images searching
+E0410 16:02:16.125545 17424 extract_features.cpp:274] finish 4400 images searching
+E0410 16:02:18.301883 17424 extract_features.cpp:274] finish 4500 images searching
+E0410 16:02:20.521193 17424 extract_features.cpp:274] finish 4600 images searching
+E0410 16:02:22.689184 17424 extract_features.cpp:274] finish 4700 images searching
+E0410 16:02:24.902190 17424 extract_features.cpp:274] finish 4800 images searching
+E0410 16:02:27.059198 17424 extract_features.cpp:274] finish 4900 images searching
+E0410 16:02:29.226722 17424 extract_features.cpp:274] finish 5000 images searching
+E0410 16:02:31.437167 17424 extract_features.cpp:274] finish 5100 images searching
+E0410 16:02:33.617614 17424 extract_features.cpp:274] finish 5200 images searching
+E0410 16:02:35.747370 17424 extract_features.cpp:274] finish 5300 images searching
+E0410 16:02:37.998682 17424 extract_features.cpp:274] finish 5400 images searching
+E0410 16:02:40.223582 17424 extract_features.cpp:274] finish 5500 images searching
+E0410 16:02:42.364145 17424 extract_features.cpp:274] finish 5600 images searching
+E0410 16:02:44.505833 17424 extract_features.cpp:274] finish 5700 images searching
+E0410 16:02:46.641768 17424 extract_features.cpp:274] finish 5800 images searching
+E0410 16:02:48.779357 17424 extract_features.cpp:274] finish 5900 images searching
+E0410 16:02:50.916167 17424 extract_features.cpp:274] finish 6000 images searching
+E0410 16:02:53.054126 17424 extract_features.cpp:274] finish 6100 images searching
+E0410 16:02:55.190685 17424 extract_features.cpp:274] finish 6200 images searching
+E0410 16:02:57.326454 17424 extract_features.cpp:274] finish 6300 images searching
+E0410 16:02:59.479566 17424 extract_features.cpp:274] finish 6400 images searching
+E0410 16:03:01.615509 17424 extract_features.cpp:274] finish 6500 images searching
+E0410 16:03:03.747193 17424 extract_features.cpp:274] finish 6600 images searching
+E0410 16:03:05.880156 17424 extract_features.cpp:274] finish 6700 images searching
+E0410 16:03:08.012235 17424 extract_features.cpp:274] finish 6800 images searching
+E0410 16:03:10.147298 17424 extract_features.cpp:274] finish 6900 images searching
+E0410 16:03:12.280900 17424 extract_features.cpp:274] finish 7000 images searching
+E0410 16:03:14.414201 17424 extract_features.cpp:274] finish 7100 images searching
+E0410 16:03:16.548382 17424 extract_features.cpp:274] finish 7200 images searching
+E0410 16:03:18.682793 17424 extract_features.cpp:274] finish 7300 images searching
+E0410 16:03:20.818841 17424 extract_features.cpp:274] finish 7400 images searching
+E0410 16:03:22.958745 17424 extract_features.cpp:274] finish 7500 images searching
+E0410 16:03:25.094132 17424 extract_features.cpp:274] finish 7600 images searching
+E0410 16:03:27.228911 17424 extract_features.cpp:274] finish 7700 images searching
+E0410 16:03:29.362751 17424 extract_features.cpp:274] finish 7800 images searching
+E0410 16:03:31.498248 17424 extract_features.cpp:274] finish 7900 images searching
+E0410 16:03:33.646317 17424 extract_features.cpp:274] finish 8000 images searching
+E0410 16:03:35.779466 17424 extract_features.cpp:274] finish 8100 images searching
+E0410 16:03:37.913403 17424 extract_features.cpp:274] finish 8200 images searching
+E0410 16:03:40.043640 17424 extract_features.cpp:274] finish 8300 images searching
+E0410 16:03:42.176996 17424 extract_features.cpp:274] finish 8400 images searching
+E0410 16:03:44.309521 17424 extract_features.cpp:274] finish 8500 images searching
+E0410 16:03:46.443619 17424 extract_features.cpp:274] finish 8600 images searching
+E0410 16:03:48.576133 17424 extract_features.cpp:274] finish 8700 images searching
+E0410 16:03:50.707382 17424 extract_features.cpp:274] finish 8800 images searching
+E0410 16:03:52.848475 17424 extract_features.cpp:274] finish 8900 images searching
+E0410 16:03:54.979831 17424 extract_features.cpp:274] finish 9000 images searching
+E0410 16:03:57.111917 17424 extract_features.cpp:274] finish 9100 images searching
+E0410 16:03:59.243275 17424 extract_features.cpp:274] finish 9200 images searching
+E0410 16:04:01.375341 17424 extract_features.cpp:274] finish 9300 images searching
+E0410 16:04:03.508428 17424 extract_features.cpp:274] finish 9400 images searching
+E0410 16:04:05.638888 17424 extract_features.cpp:274] finish 9500 images searching
+E0410 16:04:07.771180 17424 extract_features.cpp:274] finish 9600 images searching
+E0410 16:04:09.907572 17424 extract_features.cpp:274] finish 9700 images searching
+E0410 16:04:12.037892 17424 extract_features.cpp:274] finish 9800 images searching
+E0410 16:04:14.170847 17424 extract_features.cpp:274] finish 9900 images searching
+E0410 16:04:16.303879 17424 extract_features.cpp:274] finish 10000 images searching
+E0410 16:04:18.440320 17424 extract_features.cpp:274] finish 10100 images searching
+E0410 16:04:20.570993 17424 extract_features.cpp:274] finish 10200 images searching
+E0410 16:04:22.709213 17424 extract_features.cpp:274] finish 10300 images searching
+E0410 16:04:24.849192 17424 extract_features.cpp:274] finish 10400 images searching
+E0410 16:04:26.991436 17424 extract_features.cpp:274] finish 10500 images searching
+E0410 16:04:29.135627 17424 extract_features.cpp:274] finish 10600 images searching
+E0410 16:04:31.275261 17424 extract_features.cpp:274] finish 10700 images searching
+E0410 16:04:33.419064 17424 extract_features.cpp:274] finish 10800 images searching
+E0410 16:04:35.561834 17424 extract_features.cpp:274] finish 10900 images searching
+E0410 16:04:37.705731 17424 extract_features.cpp:274] finish 11000 images searching
+E0410 16:04:39.848862 17424 extract_features.cpp:274] finish 11100 images searching
+E0410 16:04:41.988816 17424 extract_features.cpp:274] finish 11200 images searching
+E0410 16:04:44.122525 17424 extract_features.cpp:274] finish 11300 images searching
+E0410 16:04:46.248466 17424 extract_features.cpp:274] finish 11400 images searching
+E0410 16:04:48.376461 17424 extract_features.cpp:274] finish 11500 images searching
+E0410 16:04:50.501838 17424 extract_features.cpp:274] finish 11600 images searching
+E0410 16:04:52.630024 17424 extract_features.cpp:274] finish 11700 images searching
+E0410 16:04:54.757306 17424 extract_features.cpp:274] finish 11800 images searching
+E0410 16:04:56.884852 17424 extract_features.cpp:274] finish 11900 images searching
+E0410 16:04:59.023308 17424 extract_features.cpp:274] finish 12000 images searching
+E0410 16:05:01.159402 17424 extract_features.cpp:274] finish 12100 images searching
+E0410 16:05:03.297768 17424 extract_features.cpp:274] finish 12200 images searching
+E0410 16:05:05.450317 17424 extract_features.cpp:274] finish 12300 images searching
+E0410 16:05:07.600780 17424 extract_features.cpp:274] finish 12400 images searching
+E0410 16:05:09.759457 17424 extract_features.cpp:274] finish 12500 images searching
+E0410 16:05:11.901698 17424 extract_features.cpp:274] finish 12600 images searching
+E0410 16:05:14.027525 17424 extract_features.cpp:274] finish 12700 images searching
+E0410 16:05:16.154714 17424 extract_features.cpp:274] finish 12800 images searching
+E0410 16:05:18.282033 17424 extract_features.cpp:274] finish 12900 images searching
+E0410 16:05:20.410221 17424 extract_features.cpp:274] finish 13000 images searching
+E0410 16:05:22.554505 17424 extract_features.cpp:274] finish 13100 images searching
+E0410 16:05:24.679556 17424 extract_features.cpp:274] finish 13200 images searching
+E0410 16:05:26.803678 17424 extract_features.cpp:274] finish 13300 images searching
+E0410 16:05:28.934571 17424 extract_features.cpp:274] finish 13400 images searching
+E0410 16:05:31.076835 17424 extract_features.cpp:274] finish 13500 images searching
+E0410 16:05:33.216542 17424 extract_features.cpp:274] finish 13600 images searching
+E0410 16:05:35.358245 17424 extract_features.cpp:274] finish 13700 images searching
+E0410 16:05:37.498023 17424 extract_features.cpp:274] finish 13800 images searching
+E0410 16:05:39.638717 17424 extract_features.cpp:274] finish 13900 images searching
+E0410 16:05:41.778251 17424 extract_features.cpp:274] finish 14000 images searching
+E0410 16:05:43.910815 17424 extract_features.cpp:274] finish 14100 images searching
+E0410 16:05:46.044927 17424 extract_features.cpp:274] finish 14200 images searching
+E0410 16:05:48.172397 17424 extract_features.cpp:274] finish 14300 images searching
+E0410 16:05:50.298833 17424 extract_features.cpp:274] finish 14400 images searching
+E0410 16:05:52.424645 17424 extract_features.cpp:274] finish 14500 images searching
+E0410 16:05:54.552947 17424 extract_features.cpp:274] finish 14600 images searching
+E0410 16:05:56.678544 17424 extract_features.cpp:274] finish 14700 images searching
+E0410 16:05:58.816010 17424 extract_features.cpp:274] finish 14800 images searching
+E0410 16:06:00.957182 17424 extract_features.cpp:274] finish 14900 images searching
+E0410 16:06:03.091969 17424 extract_features.cpp:274] finish 15000 images searching
+E0410 16:06:05.223873 17424 extract_features.cpp:274] finish 15100 images searching
+E0410 16:06:07.354960 17424 extract_features.cpp:274] finish 15200 images searching
+E0410 16:06:09.485893 17424 extract_features.cpp:274] finish 15300 images searching
+E0410 16:06:11.648516 17424 extract_features.cpp:274] finish 15400 images searching
+E0410 16:06:13.783915 17424 extract_features.cpp:274] finish 15500 images searching
+E0410 16:06:15.918970 17424 extract_features.cpp:274] finish 15600 images searching
+E0410 16:06:18.053310 17424 extract_features.cpp:274] finish 15700 images searching
+E0410 16:06:20.188424 17424 extract_features.cpp:274] finish 15800 images searching
+E0410 16:06:22.319718 17424 extract_features.cpp:274] finish 15900 images searching
+E0410 16:06:24.458583 17424 extract_features.cpp:274] finish 16000 images searching
+E0410 16:06:26.622660 17424 extract_features.cpp:274] finish 16100 images searching
+E0410 16:06:28.752079 17424 extract_features.cpp:274] finish 16200 images searching
+E0410 16:06:30.878099 17424 extract_features.cpp:274] finish 16300 images searching
+E0410 16:06:33.005337 17424 extract_features.cpp:274] finish 16400 images searching
+E0410 16:06:35.134557 17424 extract_features.cpp:274] finish 16500 images searching
+E0410 16:06:37.270977 17424 extract_features.cpp:274] finish 16600 images searching
+E0410 16:06:39.403734 17424 extract_features.cpp:274] finish 16700 images searching
+E0410 16:06:41.542985 17424 extract_features.cpp:274] finish 16800 images searching
+E0410 16:06:43.680235 17424 extract_features.cpp:274] finish 16900 images searching
+E0410 16:06:45.810921 17424 extract_features.cpp:274] finish 17000 images searching
+E0410 16:06:47.942621 17424 extract_features.cpp:274] finish 17100 images searching
+E0410 16:06:50.072367 17424 extract_features.cpp:274] finish 17200 images searching
+E0410 16:06:52.203521 17424 extract_features.cpp:274] finish 17300 images searching
+E0410 16:06:54.343588 17424 extract_features.cpp:274] finish 17400 images searching
+E0410 16:06:56.484382 17424 extract_features.cpp:274] finish 17500 images searching
+E0410 16:06:58.627851 17424 extract_features.cpp:274] finish 17600 images searching
+E0410 16:07:00.757673 17424 extract_features.cpp:274] finish 17700 images searching
+E0410 16:07:02.890285 17424 extract_features.cpp:274] finish 17800 images searching
+E0410 16:07:05.025413 17424 extract_features.cpp:274] finish 17900 images searching
+E0410 16:07:07.162472 17424 extract_features.cpp:274] finish 18000 images searching
+E0410 16:07:09.299497 17424 extract_features.cpp:274] finish 18100 images searching
+E0410 16:07:11.434036 17424 extract_features.cpp:274] finish 18200 images searching
+E0410 16:07:13.568944 17424 extract_features.cpp:274] finish 18300 images searching
+E0410 16:07:15.704412 17424 extract_features.cpp:274] finish 18400 images searching
+E0410 16:07:17.839682 17424 extract_features.cpp:274] finish 18500 images searching
+E0410 16:07:19.975302 17424 extract_features.cpp:274] finish 18600 images searching
+E0410 16:07:22.109792 17424 extract_features.cpp:274] finish 18700 images searching
+E0410 16:07:24.243247 17424 extract_features.cpp:274] finish 18800 images searching
+E0410 16:07:26.375205 17424 extract_features.cpp:274] finish 18900 images searching
+E0410 16:07:28.512809 17424 extract_features.cpp:274] finish 19000 images searching
+E0410 16:07:30.654002 17424 extract_features.cpp:274] finish 19100 images searching
+E0410 16:07:32.786883 17424 extract_features.cpp:274] finish 19200 images searching
+E0410 16:07:34.918454 17424 extract_features.cpp:274] finish 19300 images searching
+E0410 16:07:37.049682 17424 extract_features.cpp:274] finish 19400 images searching
+E0410 16:07:39.181454 17424 extract_features.cpp:274] finish 19500 images searching
+E0410 16:07:41.311796 17424 extract_features.cpp:274] finish 19600 images searching
+E0410 16:07:43.446560 17424 extract_features.cpp:274] finish 19700 images searching
+E0410 16:07:45.580821 17424 extract_features.cpp:274] finish 19800 images searching
+E0410 16:07:47.714555 17424 extract_features.cpp:274] finish 19900 images searching
+E0410 16:07:49.847429 17424 extract_features.cpp:274] finish 20000 images searching
+E0410 16:07:51.977378 17424 extract_features.cpp:274] finish 20100 images searching
+E0410 16:07:54.137724 17424 extract_features.cpp:274] finish 20200 images searching
+E0410 16:07:56.269021 17424 extract_features.cpp:274] finish 20300 images searching
+E0410 16:07:58.399665 17424 extract_features.cpp:274] finish 20400 images searching
+E0410 16:08:00.531589 17424 extract_features.cpp:274] finish 20500 images searching
+E0410 16:08:02.661979 17424 extract_features.cpp:274] finish 20600 images searching
+E0410 16:08:04.794188 17424 extract_features.cpp:274] finish 20700 images searching
+E0410 16:08:06.923982 17424 extract_features.cpp:274] finish 20800 images searching
+E0410 16:08:09.056807 17424 extract_features.cpp:274] finish 20900 images searching
+E0410 16:08:11.187762 17424 extract_features.cpp:274] finish 21000 images searching
+E0410 16:08:13.318228 17424 extract_features.cpp:274] finish 21100 images searching
+E0410 16:08:15.453179 17424 extract_features.cpp:274] finish 21200 images searching
+E0410 16:08:17.584136 17424 extract_features.cpp:274] finish 21300 images searching
+E0410 16:08:19.735635 17424 extract_features.cpp:274] finish 21400 images searching
+E0410 16:08:21.882093 17424 extract_features.cpp:274] finish 21500 images searching
+E0410 16:08:24.016535 17424 extract_features.cpp:274] finish 21600 images searching
+E0410 16:08:26.185645 17424 extract_features.cpp:274] finish 21700 images searching
+E0410 16:08:28.361119 17424 extract_features.cpp:274] finish 21800 images searching
+E0410 16:08:30.512020 17424 extract_features.cpp:274] finish 21900 images searching
+E0410 16:08:32.648988 17424 extract_features.cpp:274] finish 22000 images searching
+E0410 16:08:34.789361 17424 extract_features.cpp:274] finish 22100 images searching
+E0410 16:08:36.936043 17424 extract_features.cpp:274] finish 22200 images searching
+E0410 16:08:39.075523 17424 extract_features.cpp:274] finish 22300 images searching
+E0410 16:08:41.216917 17424 extract_features.cpp:274] finish 22400 images searching
+E0410 16:08:43.354301 17424 extract_features.cpp:274] finish 22500 images searching
+E0410 16:08:45.481801 17424 extract_features.cpp:274] finish 22600 images searching
+E0410 16:08:47.608258 17424 extract_features.cpp:274] finish 22700 images searching
+E0410 16:08:49.744855 17424 extract_features.cpp:274] finish 22800 images searching
+E0410 16:08:51.870637 17424 extract_features.cpp:274] finish 22900 images searching
+E0410 16:08:54.047502 17424 extract_features.cpp:274] finish 23000 images searching
+E0410 16:08:56.210110 17424 extract_features.cpp:274] finish 23100 images searching
+E0410 16:08:58.335117 17424 extract_features.cpp:274] finish 23200 images searching
+E0410 16:09:00.488967 17424 extract_features.cpp:274] finish 23300 images searching
+E0410 16:09:02.652262 17424 extract_features.cpp:274] finish 23400 images searching
+E0410 16:09:04.800251 17424 extract_features.cpp:274] finish 23500 images searching
+E0410 16:09:06.922976 17424 extract_features.cpp:274] finish 23600 images searching
+E0410 16:09:09.046408 17424 extract_features.cpp:274] finish 23700 images searching
+E0410 16:09:11.173837 17424 extract_features.cpp:274] finish 23800 images searching
+E0410 16:09:13.300350 17424 extract_features.cpp:274] finish 23900 images searching
+E0410 16:09:15.425814 17424 extract_features.cpp:274] finish 24000 images searching
+E0410 16:09:17.552127 17424 extract_features.cpp:274] finish 24100 images searching
+E0410 16:09:19.687080 17424 extract_features.cpp:274] finish 24200 images searching
+E0410 16:09:21.827294 17424 extract_features.cpp:274] finish 24300 images searching
+E0410 16:09:23.957034 17424 extract_features.cpp:274] finish 24400 images searching
+E0410 16:09:26.088430 17424 extract_features.cpp:274] finish 24500 images searching
+E0410 16:09:28.218683 17424 extract_features.cpp:274] finish 24600 images searching
+E0410 16:09:30.349877 17424 extract_features.cpp:274] finish 24700 images searching
+E0410 16:09:31.333914 17424 extract_features.cpp:283] Extracted features of 24747 query images for feature blob fc_hash_encode
+E0410 16:09:31.333948 17424 extract_features.cpp:287] Successfully extracted the features!
