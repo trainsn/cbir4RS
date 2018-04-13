@@ -1,0 +1,12 @@
+0 airplane
+1 airport_runway-runway
+2 city_building-buildings
+3 crossroads-intersection
+4 forest
+5 green_farmland-agricultural
+6 highway-freeway
+7 marina-harbor
+8 parkinglot
+9 residents-mediumresidential
+10 river
+11 storage_room-storagetanks
