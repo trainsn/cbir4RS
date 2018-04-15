@@ -54,7 +54,7 @@ int main()
 
     // 读取图像
     // Read a Image
-    string file = "/home/cad/disk/linux/cbir/RSI-CB256/filename.txt";
+    string file = "/home/cad/disk/linux/cbir/RSI-CB128/filename.txt";
     fstream fin(file.c_str());
     string imgfilename;
     freopen("img_feature.txt", "w", stdout);

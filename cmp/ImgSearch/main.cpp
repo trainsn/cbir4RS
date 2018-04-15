@@ -6,7 +6,7 @@
 
 using namespace std;
 const int img_num = 24747;
-const int DIM = 8;
+const int DIM = 128;
 const int EVAL_NUM = 5;
 struct SimiStruct{
     int idx;
@@ -32,8 +32,8 @@ float getDistance(const std::vector<float>& lhs, const std::vector<float>& rhs);
 
 int main()
 {
-    freopen("../GLCM/img_feature.txt", "r", stdin);
-    freopen("glcm_simi.txt", "w", stdout);
+    freopen("/home/cad/disk/linux/cbir/RSI-CB256/img_feature.txt", "r", stdin);
+    freopen("bovw_simi.txt", "w", stdout);
     string file = "/home/cad/disk/linux/cbir/RSI-CB256/filename.txt";
     fstream fin(file.c_str());
     string imgfilename;
@@ -55,9 +55,14 @@ int main()
         imgfilenames.push_back(imgfilename);
         truths.push_back(truth);
 
-        cin >> imgfilename;
+        int label;
+        cin >> label;
         for (int i = 0; i < DIM ;i++)
+        {
             cin >> img_features[imgcount][i];
+            //cout << img_features[imgcount][i] << " " ;
+        }
+        //cout << endl;
         imgcount++;
     }
 
@@ -82,8 +87,12 @@ int main()
             acc = 0;
             for (size_t k = 1; k <= topk[j]; k++)
             {
-               if (!j)
+               if (!j){
                   std::cout << "  simi" << k << " " << imgfilenames[simires[k].idx] << " " << simires[k].simi << std::endl;
+                  //for (int l = 0; l < DIM; l++)
+                  //  cout << img_features[simires[k].idx][l] <<  " " ;
+                  //cout << endl;
+               }
                if (truths[simires[k].idx] == truths[i])
                    acc++;
             }

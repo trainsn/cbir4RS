@@ -9,7 +9,7 @@ using namespace std;
 using namespace cv;
 const int SCALE = 4;
 const int SIZE = SCALE*SCALE*SCALE*SCALE;
-const int img_num = 24747;
+const int img_num = 36707;
 const int EVAL_NUM = 5;
 
 struct SimiStruct{
@@ -31,7 +31,7 @@ int main()
 {
     Mat img,hsvImg;
     char key;
-    string file = "/home/cad/disk/linux/cbir/RSI-CB256/filename.txt";
+    string file = "/home/cad/disk/linux/cbir/RSI-CB128/filename.txt";
     fstream fin(file.c_str());
     string imgfilename;
     std::vector<string> imgfilenames;
@@ -135,11 +135,11 @@ int main()
     int topk[5] = {5, 10, 50, 100, 200};
     float map[5] = {0};
     std::vector<SimiStruct> simires;
-    for (int i = 0; i < img_num; i++){
+    for (int i = 0; i < imgcount; i++){
         int acc = 0;
         simires.clear();
         std::cout <<  imgfilenames[i] << std::endl;
-        for (int j = 0; j < img_num; j++){
+        for (int j = 0; j < imgcount; j++){
             SimiStruct tempSimi;
             tempSimi.idx = j;
             tempSimi.simi = getSimilarity(img_features[i], img_features[j]);
@@ -164,7 +164,7 @@ int main()
         std::cout << std::endl;
     }
     for (int i = 0; i < EVAL_NUM; i++)
-      std::cout << "map" << topk[i] << " " << map[i]/(topk[i]*img_num) << std::endl;
+      std::cout << "map" << topk[i] << " " << map[i]/(topk[i]*imgcount) << std::endl;
     return 0;
 }
 
