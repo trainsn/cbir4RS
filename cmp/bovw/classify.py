@@ -29,7 +29,7 @@ dataset_path = str(args.d)
 dataset_path = dataset_path[2:len(dataset_path)-2]
 codebook_file = dataset_path + 'codebook.file'
 
-f = open(dataset_path + 'filename_bovw.txt'  ,'r')
+f = open(dataset_path + 'filename.txt'  ,'r')
 idx = 0
 for line in f.readlines():
     imgfilename = line.split()[0]
@@ -40,7 +40,7 @@ for line in f.readlines():
     idx = idx + 1
     
     if (idx % 1500 == 0 or idx == 36707):
-        if (idx > 0):  
+        if (idx > 34500):  
             all_features = extractSift(all_files)
             #for i in fnames:
             #    all_files_labels[i] = 0  # label is unknown
@@ -64,7 +64,7 @@ for line in f.readlines():
                                   all_files_labels,
                                   all_files,
                                   all_word_histgrams,
-                                  dataset_path + 'img_features' + str(idx/1500) + '.txt')
+                                  dataset_path + 'img_features' + str((idx-1)/1500+1) + '.txt')
         
         all_files = []
         all_files_labels = {}

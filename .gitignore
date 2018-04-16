@@ -1,4 +1,8 @@
 *.caffemodel
+*.zip
+*.tar.gz
+
+img_feature*
 
 CMakeCache.txt
 CMakeFiles
