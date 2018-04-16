@@ -39,7 +39,7 @@ for line in f.readlines():
     all_files_labels[imgfilename] = int(label)
     idx = idx + 1
     
-    if (idx % 1500 == 0 or idx == 24747):
+    if (idx % 1500 == 0 or idx == 36707):
         if (idx > 0):  
             all_features = extractSift(all_files)
             #for i in fnames:

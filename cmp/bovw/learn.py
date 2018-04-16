@@ -115,7 +115,7 @@ if __name__ == '__main__':
     all_files_labels = {}
     all_features = {}
     cat_label = {}
-    f = open(datasetpath + 'filename_train1.txt'  ,'r')
+    f = open(datasetpath + 'filename_bovw.txt'  ,'r')
     for line in f.readlines():
         imgfilename = line.split()[0]
         
@@ -162,7 +162,7 @@ if __name__ == '__main__':
                           all_files_labels,
                           all_files,
                           all_word_histgrams,
-                          datasetpath + 'bovw_' +  '.txt')
+                          datasetpath + 'bovw' +  '.txt')
 
 #    print "---------------------"
 #    print "## train svm"
