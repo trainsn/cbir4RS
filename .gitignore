@@ -2,6 +2,9 @@
 *.zip
 *.tar.gz
 
+*.bmp
+*.tif
+
 img_feature*
 
 CMakeCache.txt
