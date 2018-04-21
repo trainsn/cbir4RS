@@ -1,6 +1,6 @@
 import numpy as np
 
-f = open('rs_simi_vgg16_pretrain.txt'  ,'r')
+f = open('rs_simi_vgg16_level.txt'  ,'r')
 idx = 0
 acc = np.zeros(5)
 for line in f.readlines():
@@ -15,7 +15,9 @@ for line in f.readlines():
         acc[3] = acc[3] + float(line.split()[2])
     if (idx % 12 == 11):
         acc[4] = acc[4] + float(line.split()[2])
-        
-for i in range(5):
-    print(acc[i]/1200)
+    if (idx % 1200 == 0):
+        for i in range(5):
+            print(acc[i]/100)   
+        print()
+        acc = np.zeros(5)
     

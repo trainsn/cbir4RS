@@ -1,0 +1,461 @@
+/home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway1.tif
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway1.tif 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway9.tif 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway94.tif 1
+  simi4 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway259.tif 1
+  simi5 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway288.tif 1
+  simi6 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway260.tif 1
+  simi7 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway74.tif 1
+  simi8 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway828.tif 1
+  simi9 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway931.tif 1
+  simi10 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway5.tif 1
+  simi11 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway547.tif 1
+  simi12 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway571.tif 1
+  simi13 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway50.tif 1
+  simi14 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway198.tif 1
+  simi15 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway112.tif 1
+  simi16 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway2.tif 1
+  simi17 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway111.tif 1
+  simi18 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway322.tif 1
+  simi19 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway91.tif 1
+  simi20 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway1161.tif 1
+  simi21 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway73.tif 1
+  simi22 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway284.tif 1
+  simi23 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway66.tif 1
+  simi24 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway6.tif 1
+  simi25 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway349.tif 1
+  simi26 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway72.tif 1
+  simi27 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway347.tif 1
+  simi28 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway890.tif 1
+  simi29 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway110.tif 1
+  simi30 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway281.tif 1
+  simi31 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway280.tif 1
+  simi32 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway200.tif 1
+  simi33 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway225.tif 1
+  simi34 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway56.tif 1
+  simi35 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway773.tif 1
+  simi36 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway99.tif 1
+  simi37 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway224.tif 1
+  simi38 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway101.tif 1
+  simi39 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway226.tif 1
+  simi40 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway332.tif 1
+  simi41 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway562.tif 1
+  simi42 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway563.tif 1
+  simi43 /home/cad/disk/linux/cbir/RSI-CB128/transportation/highway/highway218.tif 1
+  simi44 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway212.tif 1
+  simi45 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway136.tif 1
+  simi46 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway978.tif 1
+  simi47 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway328.tif 1
+  simi48 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway100.tif 1
+  simi49 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway10.tif 1
+  simi50 /home/cad/disk/linux/cbir/RSI-CB128/transportation/airport_runway/airport_runway291.tif 1
+acc: 50 0.98
+acc: 100 0.99
+acc: 200 0.995
+
+/home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree378.tif
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree243.tif 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree401.tif 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree152.tif 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree153.tif 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree241.tif 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree402.tif 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree403.tif 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree404.tif 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree156.tif 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree24.tif 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree239.tif 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree238.tif 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree237.tif 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree236.tif 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree400.tif 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree234.tif 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree233.tif 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree232.tif 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree230.tif 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree229.tif 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree228.tif 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree160.tif 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree221.tif 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree409.tif 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree163.tif 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree41.tif 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree410.tif 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree411.tif 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree258.tif 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree135.tif 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree375.tif 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree378.tif 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree38.tif 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree138.tif 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree269.tif 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree143.tif 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree266.tif 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree265.tif 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree264.tif 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree262.tif 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree261.tif 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree260.tif 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree26.tif 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree412.tif 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree257.tif 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree254.tif 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree252.tif 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree251.tif 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree397.tif 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB128/woodland/city_green_tree/city_green_tree250.tif 0
+acc: 50 1
+acc: 100 1
+acc: 200 1
+
+/home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1147.tif
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm496.tif 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm497.tif 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1274.tif 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1273.tif 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm498.tif 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1272.tif 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm499.tif 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm5.tif 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1275.tif 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1270.tif 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm501.tif 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1269.tif 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm503.tif 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1268.tif 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1266.tif 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1265.tif 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1264.tif 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1288.tif 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm484.tif 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1290.tif 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm485.tif 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm486.tif 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm487.tif 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1289.tif 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm488.tif 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm489.tif 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1263.tif 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm490.tif 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1280.tif 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm491.tif 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm492.tif 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1279.tif 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1278.tif 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1277.tif 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1276.tif 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1242.tif 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1247.tif 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm517.tif 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm518.tif 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1246.tif 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1245.tif 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1244.tif 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm519.tif 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm52.tif 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm516.tif 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1241.tif 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1240.tif 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1238.tif 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm521.tif 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB128/cultivated_land/dry_farm/dry_farm1237.tif 0
+acc: 50 1
+acc: 100 1
+acc: 200 1
+
+/home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst456.tif
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst874.tif 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst873.tif 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst872.tif 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst871.tif 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst870.tif 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst87.tif 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst869.tif 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst259.tif 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst868.tif 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst875.tif 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst866.tif 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst865.tif 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst864.tif 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst863.tif 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst862.tif 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst861.tif 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst258.tif 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst860.tif 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst880.tif 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst495.tif 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst267.tif 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst266.tif 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst882.tif 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst265.tif 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst264.tif 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst263.tif 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst262.tif 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst881.tif 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst86.tif 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst88.tif 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst261.tif 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst879.tif 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst260.tif 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst878.tif 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst877.tif 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst26.tif 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst876.tif 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst842.tif 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst849.tif 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst848.tif 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst847.tif 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst846.tif 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst845.tif 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst250.tif 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst496.tif 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst844.tif 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst843.tif 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst251.tif 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst841.tif 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB128/water_area/hirst/hirst25.tif 0
+acc: 50 1
+acc: 100 1
+acc: 200 1
+
+/home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road82.tif
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road587.tif 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road588.tif 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road589.tif 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road59.tif 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road590.tif 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road591.tif 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road592.tif 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road593.tif 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road594.tif 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road595.tif 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road596.tif 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road597.tif 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road598.tif 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road844.tif 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road585.tif 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road601.tif 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road603.tif 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road604.tif 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road605.tif 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road606.tif 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road607.tif 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road608.tif 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road609.tif 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road61.tif 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road610.tif 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road611.tif 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road612.tif 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road613.tif 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road614.tif 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road569.tif 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road556.tif 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road557.tif 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road558.tif 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road559.tif 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road56.tif 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road560.tif 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road561.tif 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road562.tif 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road563.tif 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road564.tif 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road565.tif 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road566.tif 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road567.tif 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road568.tif 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road616.tif 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road570.tif 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road843.tif 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road571.tif 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road573.tif 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB128/transportation/mountain_road/mountain_road574.tif 0
+acc: 50 1
+acc: 100 1
+acc: 200 1
+
+/home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents964.tif
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents194.tif 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents195.tif 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents197.tif 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents198.tif 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents199.tif 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents2.tif 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents200.tif 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents201.tif 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents202.tif 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents203.tif 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents205.tif 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents689.tif 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents193.tif 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents688.tif 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents209.tif 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents21.tif 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents897.tif 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents687.tif 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents686.tif 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents217.tif 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents218.tif 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents220.tif 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents222.tif 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents223.tif 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents224.tif 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents692.tif 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents703.tif 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents16.tif 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents701.tif 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents162.tif 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents166.tif 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents7.tif 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents699.tif 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents698.tif 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents696.tif 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents695.tif 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents694.tif 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents693.tif 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents225.tif 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents691.tif 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents690.tif 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents18.tif 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents182.tif 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents185.tif 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents186.tif 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents187.tif 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents189.tif 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents19.tif 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents190.tif 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB128/construction_land/residents/residents191.tif 0
+acc: 50 1
+acc: 100 1
+acc: 200 1
+
+/home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood1087.tif
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood487.tif 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood486.tif 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood485.tif 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood484.tif 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood483.tif 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood482.tif 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood481.tif 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood480.tif 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood48.tif 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood479.tif 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood478.tif 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood488.tif 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood476.tif 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood475.tif 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood474.tif 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood473.tif 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood472.tif 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood471.tif 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood470.tif 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood47.tif 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood469.tif 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood468.tif 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood498.tif 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood506.tif 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood505.tif 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood504.tif 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood503.tif 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood502.tif 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood501.tif 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood500.tif 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood50.tif 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood5.tif 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood499.tif 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood467.tif 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood497.tif 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood496.tif 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood495.tif 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood494.tif 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood493.tif 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood492.tif 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood491.tif 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood490.tif 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood49.tif 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood489.tif 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood433.tif 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood446.tif 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood442.tif 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood441.tif 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood44.tif 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB128/woodland/shrubwood/shrubwood439.tif 0
+acc: 50 1
+acc: 100 1
+acc: 200 1
+
+/home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream72.tif
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream660.tif 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream661.tif 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream662.tif 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream663.tif 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream664.tif 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream289.tif 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream665.tif 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream666.tif 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream667.tif 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream66.tif 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream669.tif 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream67.tif 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream671.tif 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream673.tif 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream674.tif 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream675.tif 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream676.tif 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream677.tif 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream678.tif 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream653.tif 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream646.tif 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream291.tif 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream647.tif 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream648.tif 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream649.tif 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream65.tif 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream650.tif 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream651.tif 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream652.tif 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream679.tif 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream654.tif 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream655.tif 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream290.tif 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream29.tif 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream656.tif 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream657.tif 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream658.tif 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream659.tif 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream707.tif 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream7.tif 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream70.tif 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream700.tif 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream701.tif 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream702.tif 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream703.tif 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream704.tif 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream705.tif 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream706.tif 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream699.tif 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB128/water_area/stream/stream708.tif 0
+acc: 50 1
+acc: 100 1
+acc: 200 1
+
+map5 0.000217942
+map10 0.000217942
+map50 0.000217397
+map100 0.00021767
+map200 0.000217806

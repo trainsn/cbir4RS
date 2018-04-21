@@ -1,0 +1,290 @@
+/home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(100).bmp
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(297).bmp 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(160).bmp 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(234).bmp 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(208).bmp 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(300).bmp 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(349).bmp 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(181).bmp 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(237).bmp 1
+  simi9 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(304).bmp 1
+  simi10 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(303).bmp 1
+  simi11 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(136).bmp 1
+  simi12 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(239).bmp 1
+  simi13 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(227).bmp 1
+  simi14 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(305).bmp 1
+  simi15 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(241).bmp 1
+  simi16 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(229).bmp 1
+  simi17 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(145).bmp 1
+  simi18 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(60).bmp 1
+  simi19 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(155).bmp 1
+  simi20 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(158).bmp 1
+  simi21 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(159).bmp 1
+  simi22 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(214).bmp 1
+  simi23 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(323).bmp 1
+  simi24 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(324).bmp 1
+  simi25 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(1).bmp 1
+  simi26 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(195).bmp 1
+  simi27 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(347).bmp 1
+  simi28 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(182).bmp 1
+  simi29 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(183).bmp 1
+  simi30 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(301).bmp 1
+  simi31 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(257).bmp 1
+  simi32 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(98).bmp 1
+  simi33 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(291).bmp 1
+  simi34 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(97).bmp 1
+  simi35 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(290).bmp 1
+  simi36 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(108).bmp 1
+  simi37 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(94).bmp 1
+  simi38 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(293).bmp 1
+  simi39 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(296).bmp 1
+  simi40 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(106).bmp 1
+  simi41 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(263).bmp 1
+  simi42 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(302).bmp 1
+  simi43 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(244).bmp 1
+  simi44 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(283).bmp 1
+  simi45 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(84).bmp 1
+  simi46 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(87).bmp 1
+  simi47 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(186).bmp 2
+  simi48 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(213).bmp 2
+  simi49 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(316).bmp 2
+  simi50 /home/cad/disk/linux/cbir/RSI-CB256/other_objects/airplane/airplane(209).bmp 2
+acc: 50 1
+acc: 100 1
+acc: 200 0.995
+
+/home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(233).bmp
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(265).bmp 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(445).bmp 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(446).bmp 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(447).bmp 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(263).bmp 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(262).bmp 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(448).bmp 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(449).bmp 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(261).bmp 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(44).bmp 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(450).bmp 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(260).bmp 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(444).bmp 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(451).bmp 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(259).bmp 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(258).bmp 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(452).bmp 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(257).bmp 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(453).bmp 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(256).bmp 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(255).bmp 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(456).bmp 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(457).bmp 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(252).bmp 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(437).bmp 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(428).bmp 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(429).bmp 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(42).bmp 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(430).bmp 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(431).bmp 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(432).bmp 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(433).bmp 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(274).bmp 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(434).bmp 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(435).bmp 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(436).bmp 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(273).bmp 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(458).bmp 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(271).bmp 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(438).bmp 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(270).bmp 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(43).bmp 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(26).bmp 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(440).bmp 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(441).bmp 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(269).bmp 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(267).bmp 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(443).bmp 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(266).bmp 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB256/transportation/crossroads/crossroads(228).bmp 0
+acc: 50 1
+acc: 100 1
+acc: 200 0.995
+
+/home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(28).bmp
+acc: 5 1
+acc: 10 0.9
+  simi1 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(15).bmp 1
+  simi2 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(11).bmp 1
+  simi3 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(101).bmp 1
+  simi4 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(46).bmp 1
+  simi5 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(57).bmp 2
+  simi6 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(77).bmp 2
+  simi7 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(208).bmp 2
+  simi8 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(40).bmp 2
+  simi9 /home/cad/disk/linux/cbir/RSI-CB256/transportation/bridge/bridge(302).bmp 2
+  simi10 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(37).bmp 2
+  simi11 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(117).bmp 2
+  simi12 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(199).bmp 2
+  simi13 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(35).bmp 2
+  simi14 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(66).bmp 2
+  simi15 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(67).bmp 2
+  simi16 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(139).bmp 2
+  simi17 /home/cad/disk/linux/cbir/RSI-CB256/transportation/bridge/bridge(259).bmp 2
+  simi18 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(55).bmp 2
+  simi19 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(157).bmp 2
+  simi20 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(169).bmp 2
+  simi21 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(53).bmp 2
+  simi22 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(112).bmp 2
+  simi23 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(51).bmp 2
+  simi24 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(12).bmp 3
+  simi25 /home/cad/disk/linux/cbir/RSI-CB256/transportation/parkinglot/parkinglot(151).bmp 3
+  simi26 /home/cad/disk/linux/cbir/RSI-CB256/water_area/river/river(57).bmp 3
+  simi27 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(123).bmp 3
+  simi28 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(108).bmp 3
+  simi29 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(59).bmp 3
+  simi30 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(49).bmp 3
+  simi31 /home/cad/disk/linux/cbir/RSI-CB256/transportation/bridge/bridge(201).bmp 3
+  simi32 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(137).bmp 3
+  simi33 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(201).bmp 3
+  simi34 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(50).bmp 3
+  simi35 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(192).bmp 3
+  simi36 /home/cad/disk/linux/cbir/RSI-CB256/transportation/bridge/bridge(220).bmp 3
+  simi37 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(211).bmp 3
+  simi38 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(175).bmp 3
+  simi39 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(162).bmp 3
+  simi40 /home/cad/disk/linux/cbir/RSI-CB256/transportation/bridge/bridge(208).bmp 3
+  simi41 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(209).bmp 3
+  simi42 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(184).bmp 3
+  simi43 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(141).bmp 3
+  simi44 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(134).bmp 3
+  simi45 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(75).bmp 3
+  simi46 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(43).bmp 3
+  simi47 /home/cad/disk/linux/cbir/RSI-CB256/transportation/highway/highway(44).bmp 3
+  simi48 /home/cad/disk/linux/cbir/RSI-CB256/transportation/parkinglot/parkinglot(150).bmp 4
+  simi49 /home/cad/disk/linux/cbir/RSI-CB256/transportation/parkinglot/parkinglot(149).bmp 4
+  simi50 /home/cad/disk/linux/cbir/RSI-CB256/transportation/parkinglot/parkinglot(69).bmp 4
+acc: 50 0.8
+acc: 100 0.47
+acc: 200 0.475
+
+/home/cad/disk/linux/cbir/RSI-CB256/water_area/river/river(238).bmp
+acc: 5 0
+acc: 10 0
+  simi1 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(111).bmp 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(28).bmp 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(48).bmp 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(93).bmp 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(133).bmp 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(112).bmp 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(162).bmp 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(136).bmp 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(83).bmp 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(25).bmp 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(98).bmp 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(121).bmp 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(63).bmp 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(46).bmp 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(8).bmp 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(176).bmp 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB256/water_area/river/river(238).bmp 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(67).bmp 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(125).bmp 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(22).bmp 1
+  simi21 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(49).bmp 1
+  simi22 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(20).bmp 1
+  simi23 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(23).bmp 1
+  simi24 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(26).bmp 1
+  simi25 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(206).bmp 1
+  simi26 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(1).bmp 1
+  simi27 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(19).bmp 1
+  simi28 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(45).bmp 1
+  simi29 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(17).bmp 1
+  simi30 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(5).bmp 1
+  simi31 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(66).bmp 1
+  simi32 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(667).bmp 1
+  simi33 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(65).bmp 1
+  simi34 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(654).bmp 1
+  simi35 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(64).bmp 1
+  simi36 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(62).bmp 1
+  simi37 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(33).bmp 1
+  simi38 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(60).bmp 1
+  simi39 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(328).bmp 1
+  simi40 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(51).bmp 1
+  simi41 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(59).bmp 1
+  simi42 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(57).bmp 1
+  simi43 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(2).bmp 1
+  simi44 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(56).bmp 1
+  simi45 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(55).bmp 1
+  simi46 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(558).bmp 1
+  simi47 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(54).bmp 1
+  simi48 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(174).bmp 1
+  simi49 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(52).bmp 1
+  simi50 /home/cad/disk/linux/cbir/RSI-CB256/transportation/airport_runway/airport_runway(139).bmp 1
+acc: 50 0.02
+acc: 100 0.04
+acc: 200 0.02
+
+/home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(862).bmp
+acc: 5 1
+acc: 10 1
+  simi1 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1202).bmp 0
+  simi2 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1201).bmp 0
+  simi3 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1200).bmp 0
+  simi4 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(11).bmp 0
+  simi5 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(119).bmp 0
+  simi6 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1199).bmp 0
+  simi7 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(15).bmp 0
+  simi8 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1198).bmp 0
+  simi9 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(160).bmp 0
+  simi10 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(161).bmp 0
+  simi11 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1203).bmp 0
+  simi12 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(163).bmp 0
+  simi13 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1196).bmp 0
+  simi14 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1195).bmp 0
+  simi15 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(164).bmp 0
+  simi16 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1194).bmp 0
+  simi17 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(165).bmp 0
+  simi18 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(66).bmp 0
+  simi19 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1193).bmp 0
+  simi20 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(166).bmp 0
+  simi21 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1192).bmp 0
+  simi22 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1210).bmp 0
+  simi23 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1222).bmp 0
+  simi24 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1221).bmp 0
+  simi25 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1220).bmp 0
+  simi26 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(121).bmp 0
+  simi27 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1219).bmp 0
+  simi28 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(156).bmp 0
+  simi29 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1218).bmp 0
+  simi30 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1214).bmp 0
+  simi31 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1212).bmp 0
+  simi32 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1211).bmp 0
+  simi33 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1190).bmp 0
+  simi34 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(120).bmp 0
+  simi35 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1209).bmp 0
+  simi36 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1208).bmp 0
+  simi37 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1207).bmp 0
+  simi38 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(157).bmp 0
+  simi39 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(158).bmp 0
+  simi40 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(159).bmp 0
+  simi41 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1206).bmp 0
+  simi42 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1205).bmp 0
+  simi43 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1204).bmp 0
+  simi44 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1165).bmp 0
+  simi45 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1171).bmp 0
+  simi46 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(171).bmp 0
+  simi47 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(172).bmp 0
+  simi48 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(116).bmp 0
+  simi49 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(1169).bmp 0
+  simi50 /home/cad/disk/linux/cbir/RSI-CB256/woodland/shrubwood/shrubwood(174).bmp 0
+acc: 50 1
+acc: 100 1
+acc: 200 1
+
+map5 0.000161636
+map10 0.000157595
+map50 0.000154362
+map100 0.000141835
+map200 0.000140825
