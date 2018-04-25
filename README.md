@@ -4,6 +4,17 @@ Created by Shi Neng from Zhejiang University.
 ### Introduction 
 This work is for Zhejiang University Geographic Information Science. We  uses the deep learning framework Caffe to train the CNN and use CNN to extract features. A large-scale remote sensing dataset RSI-CB is used as a training sample, and the current most popular networks in the industry including AlexNet, VGGNet, and GoogLeNet are used for training. The similarity judgment is performed using the high-dimensional vectors provided by the last hidden layer of the network. At the same time, we fine-tuned the network structure, added latent layers to represent potential concepts, learned compact binary codes, and achieved rough judgments of remote sensing retrieval through the Hamming distance. 
 
+### Files Introduction
+- caffe - caffe forked from https://github.com/upcAutoLang/Blog/issues/1
+- model - prototxt and sovler files for caffemodel
+- feat_extra - prototxt files used for feature extracting
+- cmp - traditional remote sensing image retreivial methods 
+    - bovw - Bag of visual words, forked from https://github.com/shackenberg/Minimal-Bag-of-Visual-Words-Image-Classifier
+    - color_cbir - RGb->HSV and performs non-equal interval quantization,  calculate the L histogram as a color feature
+    - glcm - Gray-level Co-occurrence Matrix, forked from https://github.com/upcAutoLang/GLCM-OpenCV
+- class_xx.txt - class name for each dataset
+- train_command.txt - specific train comands 
+
 ### Extracting features and Image Serching 
 We experiment on three datasets, RSI-CB128, RSI-CB256 and UC-Merced. In the path `feat_extra`, there are three subdirs. You can use the Caffe tool  `extract_features.bin`, which is already modified by us to fit our task. The comand is like this:
 
