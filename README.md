@@ -14,6 +14,7 @@ This work is for Zhejiang University Geographic Information Science. We  uses th
     - glcm - Gray-level Co-occurrence Matrix, forked from https://github.com/upcAutoLang/GLCM-OpenCV
 - class_xx.txt - class name for each dataset
 - train_command.txt - specific train comands 
+- paper/tsne - use tsne to do Feature reduction, forked from https://github.com/DmitryUlyanov/Multicore-TSNE
 
 ### Extracting features and Image Serching 
 We experiment on three datasets, RSI-CB128, RSI-CB256 and UC-Merced. In the path `feat_extra`, there are three subdirs. You can use the Caffe tool  `extract_features.bin`, which is already modified by us to fit our task. The comand is like this:
