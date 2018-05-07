@@ -16,7 +16,7 @@ This work is for Zhejiang University Geographic Information Science. We  uses th
 - train_command.txt - specific train comands 
 - paper/tsne - use tsne to do Feature reduction, forked from https://github.com/DmitryUlyanov/Multicore-TSNE
 
-### Extracting features and Image Serching 
+### Extracting features and Image Searching 
 We experiment on three datasets, RSI-CB128, RSI-CB256 and UC-Merced. In the path `feat_extra`, there are three subdirs. You can use the Caffe tool  `extract_features.bin`, which is already modified by us to fit our task. The comand is like this:
 
     ./build/tools/extract_features.bin /home/cad/disk/linux/cbir/model/RSI-CB128/AlexNet_iter_100000.caffemodel /home/cad/disk/linux/cbir/feat_extra/RSI-CB128/class_val_alex.prototxt fc7 feat_extra 36707 /home/cad/disk/linux/cbir/feat_extra/rs_simi_alex_10.txt GPU 0
